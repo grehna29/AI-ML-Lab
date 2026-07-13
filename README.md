@@ -1,5 +1,5 @@
 # AI-ML-Lab
-# 🧠 Alzheimer's Disease Image Metadata Preprocessing
+# 🧠 Alzheimer's Disease Image Preprocessing
 
 A comprehensive data preprocessing project developed using **Google Colab** for preparing an Alzheimer's Disease image metadata dataset for machine learning applications. This project demonstrates essential preprocessing techniques including data inspection, missing value handling, duplicate removal, outlier treatment, feature scaling, correlation analysis, train-test splitting, and data visualization.
 
