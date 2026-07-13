@@ -61,8 +61,6 @@ The dataset contains metadata extracted from Alzheimer's Disease MRI brain image
 - File Size (MB)
 - Full Path
 
-> **Note:** This project preprocesses the image metadata rather than the MRI images themselves.
-
 ---
 
 ## 🛠 Technologies Used
@@ -101,45 +99,9 @@ The dataset contains metadata extracted from Alzheimer's Disease MRI brain image
 
 ---
 
-## ▶️ How to Run
-
-### Step 1
-
-Open **Google Colab**.
-
-### Step 2
-
-Upload the following file:
-
-```
-Alzheimer_Dataset_Details.csv
-```
-
-### Step 3
-
-Open the notebook:
-
-```
-Data_Preprocessing.ipynb
-```
-
-### Step 4
-
-Run each cell sequentially from top to bottom.
-
-### Step 5
-
-After execution, the cleaned dataset will be generated automatically as:
-
-```
-Alzheimer_Preprocessed.csv
-```
-
----
-
 ## 📊 Output
 
-The project generates:
+The final output generates:
 
 - Cleaned dataset
 - Missing value report
@@ -151,22 +113,6 @@ The project generates:
 - Histograms before preprocessing
 - Histograms after preprocessing
 - Training and testing datasets
-
----
-
-## 🎯 Learning Outcomes
-
-After completing this project, you will understand how to:
-
-- Perform data cleaning
-- Handle missing values
-- Remove duplicate records
-- Detect and treat outliers
-- Normalize and standardize numerical data
-- Analyze feature relationships
-- Prepare datasets for machine learning
-- Visualize preprocessing results
-- Export processed datasets for future use
 
 ---
 
